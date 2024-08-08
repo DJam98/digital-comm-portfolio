@@ -91,6 +91,10 @@ a{
     background-color: #164E63;
 }
 
+img{
+    width: 100%;
+}
+
 @media screen and (max-width: 800px) {
 
     .infoName {
