@@ -99,6 +99,33 @@ p{
     width: 70vw;
 }
 
+.rationale{
+    border-left: 1rem solid #06b6d4;
+    z-index: 1;
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.rationale-title{
+    background-color: #06b6d4;
+    color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+
+    z-index: 2;
+    top: 0;
+}
+
+.translate{
+    translate: 0 7.3rem;
+    position: absolute;
+}
+
+.rationale-body{
+    padding: 1rem;
+}
+
 @media screen and (max-width: 800px) {
 
     .infoName {
